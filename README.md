@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing websites.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at the university of Toulouse Ynov Campus.
 - 💼 &nbsp; Internship in CrossModal Perception and Plasticity Laboratory at UCLouvain in Blegium.
 - 🌱 &nbsp; Learning more about Dev Web, Infra and Devops.
@@ -39,9 +39,10 @@
 <br/>
 
 <a href="https://github.com/WeeXee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeeXee&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeeXee&theme=buefy&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WeeXee&layout=compact"/>
+
 </a>
+
 
 <br/>
 
@@ -53,4 +54,3 @@
 <a href="https://www.instagram.com/kbphotographiie/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kbphotographiie-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:pauline.cabee@ynov.com"><img alt="Email" src="https://img.shields.io/badge/Email-Pauline.cabee@ynov.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
