@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing websites.
 - 🎓 &nbsp; Studying Computer Science at the university of Toulouse Ynov Campus.
 - 💼 &nbsp; Internship in CrossModal Perception and Plasticity Laboratory at UCLouvain in Blegium.
 - 🌱 &nbsp; Learning more about Dev Web, Infra and Devops.
