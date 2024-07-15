@@ -5,8 +5,9 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at the university of Toulouse Ynov Campus.
 - 💼 &nbsp; Internship in CrossModal Perception and Plasticity Laboratory at UCLouvain in Belgium.
-- 🌱 &nbsp; Learning more about Dev Web, Infra and Devops.
-- ✍️ &nbsp; Freetime designing websites and also doing photography.
+- 💼 &nbsp; Security Engineer in a work study program in the company: BPCE IT.
+- 🌱 &nbsp; Learning more about Cybersecurity.
+- ✍️ &nbsp; Freetime photography and biker.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
